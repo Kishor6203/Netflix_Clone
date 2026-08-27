@@ -1,11 +1,10 @@
-##Netflix Clone
+**Netflix Clone**
 
 A fully functional Netflix-style streaming web application built with HTML, Tailwind CSS, JavaScript, and React.js. The project recreates the core Netflix experience with a responsive interface, movie/TV browsing, search, categories, authentication UI, watchlist functionality, and video playback.
 
-🚀 Features
+**🚀 Features**
 
 🎬 Netflix-inspired responsive UI
-
 
 🏠 Home page with hero banner and movie sections
 
@@ -37,7 +36,7 @@ A fully functional Netflix-style streaming web application built with HTML, Tail
 
 🧭 React Router navigation
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5 — Application structure
 
@@ -55,7 +54,7 @@ Vite — Development/build tooling
 
 LocalStorage — Client-side persistence for user preferences and watchlist
 
-⚙️ Installation
+**⚙️ Installation**
 1. Clone the repository
 git clone https://github.com/your-username/netflix-clone.git
 cd netflix-clone
@@ -73,7 +72,7 @@ npm run dev
 
 If you use additional services such as Firebase, Supabase, or a custom backend for authentication, add their configuration variables to .env as well.
 
-🎥 Movie Data
+**🎥 Movie Data**
 
 The application can use TMDB to retrieve:
 
@@ -89,7 +88,7 @@ Trailers and videos
 Search results
 Similar movies
 
-🧩 Main Components
+**🧩 Main Components**
 Navbar
 
 Provides navigation between:
@@ -139,7 +138,7 @@ Similar movies
 
 Users can save movies and TV shows to their personal list.
 
-🔐 Authentication
+**🔐 Authentication**
 
 For a frontend-only demo, authentication can be represented with LocalStorage.
 
@@ -149,7 +148,7 @@ Firebase Authentication
 Supabase Auth
 Auth0
 
-🎨 Tailwind CSS
+**🎨 Tailwind CSS**
 
 The UI uses Tailwind utility classes for responsive layouts and Netflix-style dark colors.
 
@@ -161,7 +160,7 @@ Example:
   </h1>
 </div>
 
-📱 Responsive Design
+**📱 Responsive Design**
 
 The application is designed for:
 
@@ -171,7 +170,7 @@ The application is designed for:
 🖥️ Desktop monitors
 📺 Large screens
 
-⚠️ Disclaimer
+**⚠️ Disclaimer**
 
 This project is created for educational and portfolio purposes.
 
