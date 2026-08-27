@@ -1,33 +1,58 @@
-Netflix Clone
+##Netflix Clone
 
 A fully functional Netflix-style streaming web application built with HTML, Tailwind CSS, JavaScript, and React.js. The project recreates the core Netflix experience with a responsive interface, movie/TV browsing, search, categories, authentication UI, watchlist functionality, and video playback.
 
 🚀 Features
+
 🎬 Netflix-inspired responsive UI
+
+
 🏠 Home page with hero banner and movie sections
+
 🔥 Trending movies and TV shows
+
 🎭 Browse movies by genre
+
 🔎 Real-time movie search
+
 📺 Movie and TV show details pages
+
 ▶️ Video/movie trailer playback
+
 ❤️ Add/remove movies from My List
+
 👤 User profile interface
+
 🔐 Login and signup pages
+
 📱 Fully responsive design for mobile, tablet, and desktop
+
 ⚡ React component-based architecture
+
 🎨 Tailwind CSS styling
+
 🌐 API integration for movie data
+
 🔄 Loading states and error handling
+
 🧭 React Router navigation
 
 🛠️ Technologies Used
+
 HTML5 — Application structure
+
 Tailwind CSS — Styling and responsive design
+
 JavaScript (ES6+) — Application logic
+
 React.js — Frontend framework
+
 React Router — Client-side routing
+
 TMDB API — Movie and TV show information
+
 Vite — Development/build tooling
+
 LocalStorage — Client-side persistence for user preferences and watchlist
 
 ⚙️ Installation
