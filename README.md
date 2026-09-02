@@ -56,7 +56,7 @@ LocalStorage — Client-side persistence for user preferences and watchlist
 
 **⚙️ Installation**
 1. Clone the repository
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/kishor6203/netflix-clone.git
 cd netflix-clone
 
 2. Install dependencies
